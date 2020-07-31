@@ -1,0 +1,62 @@
+body{
+  font-family: 'Roboto',sans-serif;
+  min-height: 100vh;
+  min-width: 100vw;
+  display: flex;
+  flex-wrap: wrap;
+  background-image: url("img/milit.jpg");
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+#cont2{
+  background-color:#113C42;
+  width: 100% !important;
+  min-height: 25% !important;
+  opacity: 0.9;
+}
+#tit2{
+  background-color: #02576C;
+  height: 13% !important;
+  text-align: center;
+  font-family: 'Fredoka One', cursive;
+}
+#jn{
+  margin-top: 2% !important;
+  float: right;
+}
+#ref2{
+  background-color:#05A19D;
+  min-height: 10% !important;
+  min-width: 100% !important;
+  margin-top: 1%;
+  font-size: 25px;
+  font-family: "Agency FB",serif;
+  text-align: center;
+}
+.p{
+  margin-top: 15px !important;
+  color:#FFE838;
+  font-size: 20px;
+  position: relative;
+}
+#menu2{
+  padding-top: 10% !important;
+  min-height:75% !important;
+}
+#return{
+  margin-top:  5% !important;
+  float: left;
+  position: relative;
+}
+#play{
+  background-color: #FFE838;
+  margin-top: 5% !important;
+  position: relative;
+  border-radius: 25px;
+  position: relative;
+}
+#menu_dados{
+  text-align: center;
+  height: 75%;
+  padding-top: 10%;
+}

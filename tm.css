@@ -1,0 +1,43 @@
+body{
+  font-family: "Agency FB",serif;
+  min-height: 100vh;
+  min-width: 100vw;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: #9D0B0B;
+  position: relative;
+  background-image: url("img/milit.jpg");
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+#tit4{
+  background-color: #02576C;
+  width: 100% !important;
+  min-height: 13% !important;
+  color: #FFD23F;
+  opacity: 0.9;
+  text-align:center;
+  padding-top: 15px;
+}
+#ref4{
+  background-color: #05A19D !important;
+  min-height: 10% !important;
+  width: 100% !important;
+  padding-top: 15px;
+  font-size: 15px !important;
+  opacity: 0.9;
+  font-family: "Agency FB",serif;
+  text-align: center !important;
+}
+#acerca{
+  min-height: 75% !important;
+  width: 100% !important;
+  text-align: center;
+  background-color: #113C42;
+  padding:33px;
+  opacity: 0.9;
+}
+p{
+  font-size: 25px;
+}
+

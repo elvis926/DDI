@@ -1,0 +1,96 @@
+body{
+  font-family: 'Roboto',sans-serif;
+  min-height: 100vh;
+  min-width: 100vw;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: #9D0B0B;
+  position: relative;
+  background-image: url("../img/milit.jpg");
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+#cont{
+  background-color:#113C42;
+  width: 100% !important;
+  min-height: 25% !important;
+}
+#ref{
+  background-color:#05A19D;
+  min-height: 10% !important;
+  min-width: 100% !important;
+  margin-top: 1%;
+  font-family: "Agency FB",serif;
+  text-align: center;
+}
+.p{
+  margin-top: 15px !important;
+  color:#FFE838;
+  font-size: 20px;
+}
+h1{
+  color: #FFD23F;
+  font-family: 'Fredoka One', cursive;
+  margin-left: 10% !important;
+  margin-top: 2%  !important;
+  position: absolute;
+}
+#tit{
+  background-color: #02576C;
+  height: 13% !important;
+}
+#info{
+  text-align: right;
+  margin-top: 1% !important;
+}
+#menu{
+  padding-top: 10% !important;
+  min-height:75% !important;
+}
+.btn-lg{
+  border-radius: 25px;
+  background-color: #FFE838;
+  position: relative;
+}
+#opi{
+  margin-left:  50% !important;
+  text-align: right;
+  position: relative;
+}
+#opin{
+  margin-left: 30% !important;
+  text-align: right;
+  position: relative;
+}
+#opd{
+  margin-left:  50% !important;
+  text-align: right;
+  color:black;
+  position: relative;
+}
+#menuiz{
+  padding-top: 20px !important;
+}
+button{
+  font-family: 'Fredoka One', cursive;
+  position: relative;
+}
+#dices{
+  padding-left: 10%;
+  padding-top: 5% !important;
+  position: relative;
+}
+#i{
+  padding-right: 5%;
+  position: relative;
+}
+.container {
+  opacity: 0.9;
+}
+a{
+  text-decoration: none;
+}
+
+
+
+
